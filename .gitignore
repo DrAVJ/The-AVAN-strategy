@@ -1,9 +1,2 @@
-<<<<<<< HEAD
-
-    # ignore all .ipynb files
-    *.ipynb
-    
-=======
 # ignore all .ipynb files
-*.ipynb
->>>>>>> cd59537f1fe90e2d4d206eff7b0f8199d5ae664f
+    *.ipynb
